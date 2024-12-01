@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 creating and managing branches and it seems interesting!!....
+=======
+creating and managing branches...
+seems interesting!!....
+rebase concept
+>>>>>>> feature_branch
 
 

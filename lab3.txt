@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 learning the stashing in github!.... 
+=======
+learning the rebase in git
+>>>>>>> feature_branch
